@@ -1,0 +1,11 @@
+.dashboard-container {
+    position: fixed;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .dashboard-image {
+    width: 290px; 
+    height: auto;
+  }

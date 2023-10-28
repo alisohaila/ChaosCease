@@ -1,0 +1,11 @@
+.calendar-container {
+    position: fixed;
+    right: 25px;
+    top: 60%;
+    transform: translateY(-50%);
+  }
+  
+  .calendar-image {
+    width: 400px; 
+    height: auto;
+  }
